@@ -12,3 +12,4 @@ Then I created dataframe and Subject & Activity were determined as two columns.
 Activity names also uploaded to my RStudio
 
 for text analysis, I uploaded the qdapTools package and I used it and the data turned to txt.file lastly thanks to the writexl package. 
+And uploaded file is tidy data 
